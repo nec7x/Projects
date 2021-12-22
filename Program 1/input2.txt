@@ -1,0 +1,38 @@
+John William Coltrane
+111338745
+100
+  99
+67
+88
+100
+McKinley Howard Dorham
+98765432
+0
+0 0
+0
+0
+John Lenwood McLean
+19283746
+75
+70
+92
+56
+100
+Jennifer Love Hewitt
+11002299
+78
+59
+80
+90
+96
+Jamie Lee Curtis
+44335588
+100 90      80   70    60
+Daniel Dai Kim
+83640926
+40
+97
+98
+85
+79
+
